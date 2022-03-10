@@ -1,7 +1,8 @@
 {
   "name": "@ponbike/ponstandard",
   "description": "JavaScript Standard Style with custom PON tweaks",
-  "version": "0.4.1",
+  "version": "0.4.2",
+  "deprecated": "This is no longer supported, please consider using `@pondevelopment/ponstandard` instead.",
   "author": {
     "name": "Pieter Wigboldus",
     "email": "pieter.wigboldus@pon.com",
