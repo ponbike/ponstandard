@@ -4,6 +4,10 @@ JavaScript Standard Style with custom PON tweaks
 
 The default standardjs lint rules: https://github.com/standard/eslint-config-standard/blob/master/.eslintrc.json
 
+# DEPRECATED
+
+This is no longer supported, please consider using `@pondevelopment/ponstandard` instead.
+
 ## Install
 
 ```
